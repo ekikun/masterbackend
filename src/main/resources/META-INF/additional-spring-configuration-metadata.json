@@ -1,0 +1,13 @@
+{
+  "properties": [
+    {
+      "name": "backend.url",
+      "type": "java.lang.String",
+      "description": "Description for backend.url."
+    },
+    {
+      "name": "aliyun.endPoint",
+      "type": "java.lang.String",
+      "description": "Description for aliyun.endPoint."
+    }
+  ] }
